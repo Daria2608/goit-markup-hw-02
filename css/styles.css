@@ -1,6 +1,6 @@
 
 body {
- font-family: 'roboto', sans-serif;
+ font-family: "Roboto", sans-serif;
  color: #434455;
  background-color: #ffffff; 
 }
@@ -13,6 +13,7 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
 background-color: #4D5AE5;
+font-family: 'roboto', sans-serif;
 }
 
 button:hover, button:focus {
@@ -38,7 +39,7 @@ ul, ol {
  font-family: 'Raleway', sans-serif;
  font-size: 18px;
  font-weight: 700;
- line-height: 1.67;
+ line-height: 1.17;
  letter-spacing: 0.03em;
  text-transform: uppercase;
  color: #4D5AE5;
@@ -56,8 +57,8 @@ ul, ol {
  color: #2E2F42;
 }
 
-.link-studio:active {
- text-decoration: underline;
+.main-contact {
+font-style: normal;
 }
 
 .address-link {
@@ -101,7 +102,7 @@ h1 {
     color: #FFFFFF;
 }
 
-.benefits-list-item-title  {
+.list-item-title  {
  font-size: 20px;
  font-weight: 500;
  line-height: 1.2;
@@ -109,7 +110,7 @@ h1 {
  color: #2E2F42;
 }
 
-.benefits-text {
+.paragraph-text {
  font-size: 16px;
  font-weight: 400;
  line-height: 1.5;
@@ -160,20 +161,17 @@ letter-spacing: 0.02em;
 
 /* Portfolio styles */
 
-.portfolio-item-name {
-
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em; 
-color:#2E2F42;  
+.portfolio-list-item {
+    background-color: #FFFFFF;
 }
+
+
 
 .portdolio-item-text {
 font-size: 16px;
 font-weight: 400;
 line-height: 1.5;
-letter-spacing: 0.02;
+letter-spacing: 0.02em;
 }
 
 /* Portfolio styles */
