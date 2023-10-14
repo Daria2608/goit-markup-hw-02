@@ -126,8 +126,8 @@ h1 {
  background-color: #F4F4FD;
 }
 
-.team-list {
- background-color: #FFFFFF;
+.team-list-item {
+    background-color: #FFFFFF;
 }
 
 .our-team-title {
@@ -169,7 +169,24 @@ letter-spacing: 0.02em;
     background-color: #FFFFFF;
 }
 
+.portfolio-title {
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
 
+
+.portfolio-list-item-title {
+ color: #2E2F42 ;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02;
+}
 
 .portfolio-item-text {
 font-size: 16px;
