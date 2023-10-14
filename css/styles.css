@@ -13,7 +13,8 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
 background-color: #4D5AE5;
-font-family: 'roboto', sans-serif;
+font-family: "Roboto",
+ sans-serif;
 }
 
 button:hover, button:focus {
@@ -125,6 +126,9 @@ h1 {
  background-color: #F4F4FD;
 }
 
+.team-list {
+ background-color: #FFFFFF;
+}
 
 .our-team-title {
 text-align: center;
@@ -167,7 +171,7 @@ letter-spacing: 0.02em;
 
 
 
-.portdolio-item-text {
+.portfolio-item-text {
 font-size: 16px;
 font-weight: 400;
 line-height: 1.5;
