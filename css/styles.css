@@ -34,6 +34,10 @@ ul, ol {
  list-style-type: none;
 }
 
+.main-contact {
+font-style: normal;
+}
+
 /* Header styles */
 
 .logotype {
